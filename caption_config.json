@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "position": "bottom",
+  "width": 900,
+  "font": "Microsoft YaHei",
+  "font_size": 20,
+  "label_size": 12,
+  "fg": "#FFFFFF",
+  "label_fg": "#7FD7FF",
+  "bg": "#101418",
+  "alpha": 0.86,
+  "topmost": true,
+  "hold": 3.0,
+  "show_corner": true,
+  "show_status": true,
+  "min_hold": 0.0
+}
